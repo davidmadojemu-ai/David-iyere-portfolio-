@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/(.*)", "destination": "/david-iyere-portfolio-v2.html" }]
+}
